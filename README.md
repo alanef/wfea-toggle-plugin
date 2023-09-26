@@ -12,8 +12,9 @@ There is a CSS file wfea-toggle.css which is enqueued but is empty and there jus
 
 
 ## Installation ##
-1. Upload the plugin files to the `/wp-content/plugins/wfea-toggle` directory, or install the plugin through the WordPress plugins screen directly.
-2. Activate the plugin through the 'Plugins' screen in WordPress
+1. Download the zip ( green button on the right, saying CODE ).
+2. Upload the plugin files to the `/wp-content/plugins/wfea-toggle` directory, or install the plugin through the WordPress plugins screen directly.
+3. Activate the plugin through the 'Plugins' screen in WordPress
 
 ## Customization ##
 This is an examplefeel free to clone and make your own changes.
