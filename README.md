@@ -17,5 +17,11 @@ There is a CSS file wfea-toggle.css which is enqueued but is empty and there jus
 3. Activate the plugin through the 'Plugins' screen in WordPress
 
 ## Customization ##
-This is an examplefeel free to clone and make your own changes.
+This is an example. Feel free to clone and make your own changes.
+
+## Licence ##
+GPL2 or later
+
+## Notes ##
+This plugin assume you have premium version of Display Eventbrite Events plugin installed and activated.It does not check.
 
