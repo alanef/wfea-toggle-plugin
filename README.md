@@ -1,6 +1,6 @@
 # Example Plugin for Display Eventbrite Events calling shorcodes #
 This is an example plugin for displaying Eventbrite Events in Wordpress using shortcodes.
-It toggle bwtween two views: a list view and a calendar view.
+It togglee between two views: a list view and a calendar view.
 
 Usage: [wfea-toggle]
 
